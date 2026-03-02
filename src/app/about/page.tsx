@@ -58,13 +58,13 @@ export default function AboutPage() {
               Where we came from.
             </h2>
             <p className="text-body leading-relaxed mb-4">
-              [PLACEHOLDER PARAGRAPH] Emergence Digital was founded with a simple
+              Emergence Digital was founded with a simple
               conviction: that businesses deserve digital partners who are as invested
               in their success as they are. We started small, worked hard, and built
               a reputation for delivering work that genuinely moves the needle.
             </p>
             <p className="text-body leading-relaxed">
-              [PLACEHOLDER PARAGRAPH] Today we work with clients across Australia —
+              Today we work with clients across Australia —
               from fast-growing startups to established enterprises — helping them
               build the digital products and systems that power their next chapter.
               Every engagement is a partnership, and every partnership is taken
