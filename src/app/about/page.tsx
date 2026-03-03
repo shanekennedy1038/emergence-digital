@@ -126,7 +126,7 @@ export default function AboutPage() {
                 />
               </div>
               <h3 className="font-serif text-2xl font-semibold text-dark-green">
-                [TEAM MEMBER NAME]
+                Shane Kennedy
               </h3>
               <p className="text-mid-green text-sm font-medium mt-1 mb-4">[ROLE]</p>
               <p className="text-muted text-sm leading-relaxed">
